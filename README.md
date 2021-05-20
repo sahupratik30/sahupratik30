@@ -25,3 +25,4 @@
 <img align="left" alt="heroku" width="35px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img align="left" alt="firebase" width="35px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="mysql" width="35px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
+<img align="left" alt="mysql" width="35px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
