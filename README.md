@@ -9,6 +9,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahupratik30&layout=compact&langs_count=6&hide=html,scss&theme=tokyonight)](https://github.com/amlannandy/github-readme-stats)
 
+![Pratik's github activity graph](https://activity-graph.herokuapp.com/graph?username=sahupratik30&theme=buefy)
+
 ## Languages and Libraries
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
