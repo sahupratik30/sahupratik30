@@ -1,6 +1,6 @@
 ## Hi there,
 
-- 🔭 I’m currently working on **Web Projects**
+- 🔭 I’m currently working on **ReactJS and NodeJS**
 - 🌱 I’m currently learning **MERN**
 - 💬 Ask me about **Web Developement**
 - 😄 Pronouns: **He/Him**
