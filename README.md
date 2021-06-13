@@ -5,6 +5,8 @@
 - 💬 Ask me about **Web Developement**
 - 😄 Pronouns: **He/Him**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahupratik30" alt="Pratik Sahu" /> </p>
+
 ![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=sahupratik30&show_icons=true&count_private=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahupratik30&layout=compact&langs_count=6,scss&theme=tokyonight)](https://github.com/sahupratik30/github-readme-stats)
