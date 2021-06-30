@@ -1,7 +1,7 @@
 ## Hi there,
 
 - 🔭 I’m currently working on **JavaScript**
-- 🌱 I’m currently learning **NodeJS and Web Scraping**
+- 🌱 I’m currently learning **NodeJS and Web Sockets(Socket.io)**
 - 💬 Ask me about **Web Developement**
 - 😄 Pronouns: **He/Him**
 
