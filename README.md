@@ -24,7 +24,7 @@
 <img align="left" alt="jQuery" width="35px" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" />
 <img align="left" alt="React" width="35px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="NodeJS" width="35px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-<img align="left" alt="Socket.io" width="35px" src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" />
+<img align="left" alt="Socket.io" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />
 <img align="left" alt="Java" width="35px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <br />
 <br />
