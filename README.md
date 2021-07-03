@@ -1,6 +1,6 @@
 ## Hi there,
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on **Full stack projects**
 - 🌱 I’m currently learning **NodeJS and Web Sockets(Socket.io)**
 - 💬 Ask me about **Web Developement**
 - 😄 Pronouns: **He/Him**
