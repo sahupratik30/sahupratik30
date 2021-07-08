@@ -1,7 +1,7 @@
 ## Hi there,
 
 - 🔭 I’m currently working on **Full stack projects**
-- 🌱 I’m currently learning **NodeJS and Web Sockets(Socket.io)**
+- 🌱 I’m currently learning **Backend Technologies**
 - 💬 Ask me about **Web Developement**
 - 😄 Pronouns: **He/Him**
 
