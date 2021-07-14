@@ -1,6 +1,6 @@
 ## Hi there,
 
-- 🔭 I’m currently working on **Full stack projects**
+- 🔭 I’m currently working on **Real-time appilication using WebRTC**
 - 🌱 I’m currently learning **Backend Technologies**
 - 💬 Ask me about **Web Developement**
 - 😄 Pronouns: **He/Him**
