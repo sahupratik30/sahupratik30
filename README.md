@@ -1,9 +1,9 @@
 ## Hi there,
 
-- 🔭 I’m currently working on **Real-time appilication using WebRTC**
-- 🌱 I’m currently learning **Backend Technologies**
+- 🔭 I’m currently working on **Real-time Appilication**
+- 🌱 I’m currently learning **WebRTC and PeerJS**
 - 💬 Ask me about **Web Developement**
-- 😄 Pronouns: **He/Him**
+- 😄 Pronouns: **He/Him/His**
 
 ![Screenshot](https://user-images.githubusercontent.com/80754608/122510210-d242f100-d022-11eb-910e-662677f711d8.png)
 
