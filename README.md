@@ -1,9 +1,10 @@
 ## Hi there,
 
-- 🔭 I’m currently working on **Real-time Appilication**
-- 🌱 I’m currently learning **WebRTC and PeerJS**
+- 🔭 I’m currently working on **Full Stack projects**
+- 🌱 I’m currently learning **JWT and Authentication**
 - 💬 Ask me about **Web Developement**
 - 😄 Pronouns: **He/Him/His**
+- 😇 Interests: **Listening Music, Sports**
 
 ![Screenshot](https://user-images.githubusercontent.com/80754608/122510210-d242f100-d022-11eb-910e-662677f711d8.png)
 
