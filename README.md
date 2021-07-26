@@ -1,7 +1,7 @@
 ## Hi there,
 
-- 🔭 I’m currently working on **Full Stack projects**
-- 🌱 I’m currently learning **JWT and Authentication**
+- 🔭 I’m currently working on **Web Projects**
+- 🌱 I’m currently learning **NextJS**
 - 💬 Ask me about **Web Developement**
 - 😄 Pronouns: **He/Him/His**
 - 😇 Interests: **Listening Music, Sports**
