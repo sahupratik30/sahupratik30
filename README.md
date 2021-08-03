@@ -8,8 +8,6 @@
 
 ![Screenshot](https://user-images.githubusercontent.com/80754608/122510210-d242f100-d022-11eb-910e-662677f711d8.png)
 
-![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=sahupratik30&show_icons=true&count_private=true&theme=tokyonight)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahupratik30&layout=compact&langs_count=6,scss&theme=tokyonight)](https://github.com/sahupratik30/github-readme-stats)
 
 ![Pratik's contribution streak](https://github-readme-streak-stats.herokuapp.com/?user=sahupratik30&theme=tokyonight)
