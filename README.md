@@ -7,8 +7,7 @@
 - 😇 Interests: **Listening Music, Sports**
 
 ![Screenshot](https://user-images.githubusercontent.com/80754608/122510210-d242f100-d022-11eb-910e-662677f711d8.png)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahupratik30&layout=compact&langs_count=6,scss&theme=tokyonight)](https://github.com/sahupratik30/github-readme-stats)
+![Pratik's Stats](https://github-readme-stats.vercel.app/api?username=sahupratik30&theme=tokyonight&show_icons=true)
 
 ## Languages and Libraries
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
