@@ -1,12 +1,10 @@
-## Hi there,
+## Hi there👋,
 
-- 🔭 I’m currently working on **Web Projects**
-- 🌱 I’m currently learning **NextJS and TypeScript**
+- 🔭 I’m **Pratik Sahu**
 - 💬 Ask me about **Web Developement**
 - 😄 Pronouns: **He/Him/His**
-- 😇 Interests: **Listening Music, Sports**
 
-![Screenshot](https://user-images.githubusercontent.com/80754608/122510210-d242f100-d022-11eb-910e-662677f711d8.png)
+![Screenshot](https://user-images.githubusercontent.com/80754608/141975864-9426bedf-95d4-4656-9d2b-2e8327bbcd7e.png)
 ![Pratik's Stats](https://github-readme-stats.vercel.app/api?username=sahupratik30&theme=tokyonight&show_icons=true)
 
 ## Languages and Libraries
