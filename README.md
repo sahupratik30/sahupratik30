@@ -18,15 +18,12 @@
 <img align="left" alt="React" width="35px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="NextJS" width="50px" src="https://iconape.com/wp-content/png_logo_vector/next-js-logo.png" />
 <img align="left" alt="Redux" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-svg-vector.svg" />
-<img align="left" alt="NodeJS" width="35px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-<img align="left" alt="Socket.io" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />
 <img align="left" alt="Java" width="35px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <br />
 <br />
 
 ## Other Tools
 <img align="left" alt="npm" width="35px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
-<img align="left" alt="mongodb" width="35px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 <img align="left" alt="heroku" width="35px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img align="left" alt="firebase" width="35px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="mysql" width="35px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
