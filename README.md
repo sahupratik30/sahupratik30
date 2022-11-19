@@ -28,3 +28,9 @@
 <img align="left" alt="firebase" width="35px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="postman" width="35px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="figma" width="35px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+<br />
+<br />
+
+## Connect with me
+<a href="https://www.linkedin.com/in/pratiksahu01/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://pratiksahu.netlify.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
