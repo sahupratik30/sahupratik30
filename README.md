@@ -70,7 +70,7 @@ I enjoy turning complex problems into clean, performant interfaces with a strong
   <a href="https://www.linkedin.com/in/pratiksahu01/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://pratiksahu.netlify.app/">
+  <a href="https://pratik-sahu.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
